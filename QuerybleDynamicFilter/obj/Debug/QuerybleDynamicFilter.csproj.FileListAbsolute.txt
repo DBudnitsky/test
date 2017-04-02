@@ -1,0 +1,7 @@
+D:\Work\Git\QuerybleDynamicFilter\QuerybleDynamicFilter\bin\Debug\QuerybleDynamicFilter.exe.config
+d:\Work\Git\TestProjects\QuerybleDynamicFilter\bin\Debug\QuerybleDynamicFilter.exe.config
+d:\Work\Git\TestProjects\QuerybleDynamicFilter\bin\Debug\QuerybleDynamicFilter.exe
+d:\Work\Git\TestProjects\QuerybleDynamicFilter\bin\Debug\QuerybleDynamicFilter.pdb
+d:\Work\Git\TestProjects\QuerybleDynamicFilter\obj\Debug\QuerybleDynamicFilter.csprojResolveAssemblyReference.cache
+d:\Work\Git\TestProjects\QuerybleDynamicFilter\obj\Debug\QuerybleDynamicFilter.exe
+d:\Work\Git\TestProjects\QuerybleDynamicFilter\obj\Debug\QuerybleDynamicFilter.pdb
