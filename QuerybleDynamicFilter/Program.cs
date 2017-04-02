@@ -24,6 +24,7 @@ namespace ConsoleApplication1
 
             var t = FilterByPropertyValue(arr.AsQueryable(), "naMe", "dima");
 
+			Console.WriteLine(t.Count());
         }
 
 
